@@ -2,49 +2,33 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **I’m currently working on:** Machine Learning, Statistical Analysis, and Competitive Programming
-- 🌱 **I’m currently learning:** User Interface Development and Machine Learning
-- 👯 **I’m looking to collaborate on:** Full Stack Development and Machine Learning Projects
-- 🤔 **I’m looking for help with:** [What You Need Help With]
-- 💬 **Ask me about:** [Topics You're Knowledgeable About]
-- 📫 **How to reach me:** Email: tlin56@jh.edu, Phone #: 6673548366
+- 🔭 **I’m currently working on:** Competitive Programming (mainly learning complex Algorithms and Data Structures)
+- 🌱 **I’m currently learning:** Advanced & Dynamic Data Structures, Machine Learning, and Modeling
+- 👯 **I’m looking to collaborate on:** Full Stack Development, Modeling, and Machine Learning Projects
+- 🤔 **I’m looking for help with:** Deep Learning, Dynamic Algorithms & Data Structures such as Heavy-light Decomposition, Centorid Decomposition, Link-Cut Tree
+- 💬 **Ask me about:** Any of my Github Projects/Programming Questions
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** [Interesting Fact About You]
+- ⚡ **Fun fact:** ChatGPT has been my main course of research ever since university
 
 ## 🚀 Languages and Tools:
 
-[List the languages, tools, and technologies that you work with. You can include icons or plain text.]
-
-For example:
-
-- Python
-- JavaScript
-- React
-- Docker
-- AWS
+- **Languages: Java, Python, C++, C, HTML, CSS
+- **Tools: Git, Unix, Vim, VS Code, IntelliJ, Jupyter Notebook, Bloomberg, Latex, Google Collab, Android Studio
 
 ## 📊 My GitHub Stats
 
-[You can use GitHub stats widgets like Anurag's GitHub Stats to display your stats]
+- TO BE UPDATED
 
 ## 📁 Featured Projects
 
 Highlight a few of your best projects. Provide a brief description and link to the repositories.
 
-- **Project 1**
-- **Project 2**
-
-## 📩 Latest Blog Posts
-
-[If you write blogs, you can list your recent posts here]
-
-- Blog Post 1
-- Blog Post 2
+- **Competitive Programming Folder 2023 - 2024** This repo contains an entire list of all the problems I solved in Codeforces, Leetcode, and DMOJ starting from September 2023
+- **Competitive Programming Data Structures & Algorithm** This repo contains an entire list of data sturctures and algorithms I learned & used. All the templates contains explanations and implementation insturctions for each data structure.
 
 ## 📫 How to Reach Me
 
 Provide your contact information for collaborations and inquiries.
 
-- **Email:** your-email@example.com
-- **LinkedIn:** your-linkedin
-- **Twitter:** @yourhandle
+- **Email:** tlin56@jh.edu
+- **LinkedIn:** [tlin](https://www.linkedin.com/in/tlin2004/)https://www.linkedin.com/in/tlin2004/
