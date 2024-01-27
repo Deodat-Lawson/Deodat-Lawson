@@ -17,7 +17,7 @@
 
 ## 📊 My GitHub Stats
 
-- TO BE UPDATED
+![GitHub Status](https://img.shields.io/endpoint?url=<URL-to-GitHub-Status-API>)
 
 ## 📁 Featured Projects
 
