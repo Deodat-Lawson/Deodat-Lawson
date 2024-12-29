@@ -31,4 +31,4 @@ Highlight a few of your best projects. Provide a brief description and link to t
 Provide your contact information for collaborations and inquiries.
 
 - **Email:** tlin56@jh.edu
-- **LinkedIn:** [tlin](https://www.linkedin.com/in/tlin2004/)https://www.linkedin.com/in/tlin2004/
+- **LinkedIn:** (https://www.linkedin.com/in/tlin2004/)https://www.linkedin.com/in/tlin2004/
