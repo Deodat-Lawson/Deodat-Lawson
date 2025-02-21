@@ -79,8 +79,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tlin56&show_icons=true&theme=tokyonight" alt="Timothy's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlin56&theme=tokyonight" alt="Timothy's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight" alt="Timothy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight" alt="Timothy's GitHub Streak" />
 </p>
 
 ---
