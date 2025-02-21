@@ -1,34 +1,77 @@
 # Hi there, I'm Timothy Lin 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programming+Enthusiast;Active+Learner/Researcher;Love+to+learn+new+stuffs..❤">
+</div>
+
 ## 👨‍💻 About Me
 
-- 🔭 **I’m currently working on:** Competitive Programming (mainly learning complex Algorithms and Data Structures)
-- 🌱 **I’m currently learning:** Advanced & Dynamic Data Structures, Machine Learning, and Modeling
-- 👯 **I’m looking to collaborate on:** Full Stack Development, Modeling, and Machine Learning Projects
-- 🤔 **I’m looking for help with:** Deep Learning, Dynamic Algorithms & Data Structures such as Heavy-light Decomposition, Centorid Decomposition, Link-Cut Tree
-- 💬 **Ask me about:** Any of my Github Projects/Programming Questions
+- 🔭 **Currently working on:** Competitive Programming (Advanced Algorithms and Data Structures)
+- 🌱 **Currently learning:** Advanced & Dynamic Data Structures, Machine Learning, and Modeling
+- 👯 **Looking to collaborate on:** Full Stack Development, Modeling, and Machine Learning Projects
+- 🤔 **Seeking help with:** Deep Learning, Dynamic Algorithms & Data Structures
+  - Heavy-light Decomposition
+  - Centroid Decomposition
+  - Link-Cut Tree
+- 💬 **Ask me about:** My Github Projects & Programming Questions
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** ChatGPT has been my main course of research ever since university
+- ⚡ **Fun fact:** ChatGPT has been my main research companion since university
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
-- **Languages: Java, Python, C++, C, HTML, CSS
-- **Tools: Git, Unix, Vim, VS Code, IntelliJ, Jupyter Notebook, Bloomberg, Latex, Google Collab, Android Studio
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### Development Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</p>
 
 ## 📊 My GitHub Stats
 
-![GitHub Status](https://img.shields.io/endpoint?url=<URL-to-GitHub-Status-API>)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlin56&show_icons=true&theme=tokyonight" alt="timothy's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlin56&theme=tokyonight" alt="timothy's github streak" />
+</p>
 
 ## 📁 Featured Projects
 
-Highlight a few of your best projects. Provide a brief description and link to the repositories.
+### [Competitive Programming Collection 2023-2024](https://github.com/tlin56/competitive-programming-2023-2024)
+📚 Comprehensive collection of solved problems from:
+- Codeforces
+- LeetCode
+- DMOJ
+> All solutions starting from September 2023
 
-- **Competitive Programming Folder 2023 - 2024** This repo contains an entire list of all the problems I solved in Codeforces, Leetcode, and DMOJ starting from September 2023
-- **Competitive Programming Data Structures & Algorithm** This repo contains an entire list of data sturctures and algorithms I learned & used. All the templates contains explanations and implementation insturctions for each data structure.
+### [Data Structures & Algorithms Templates](https://github.com/tlin56/DSA-templates)
+🎯 Complete repository of implemented data structures and algorithms
+- Detailed explanations
+- Implementation instructions
+- Usage examples
+- Time and space complexity analysis
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-Provide your contact information for collaborations and inquiries.
+<p align="left">
+  <a href="mailto:tlin56@jh.edu">
+    <img src="https://img.shields.io/badge/Email-tlin56%40jh.edu-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/tlin2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-Timothy%20Lin-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
-- **Email:** tlin56@jh.edu
-- **LinkedIn:** (https://www.linkedin.com/in/tlin2004/)https://www.linkedin.com/in/tlin2004/
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tlin56&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
