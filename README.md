@@ -79,8 +79,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight" alt="Timothy's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight" alt="Timothy's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlin56&show_icons=true&theme=tokyonight" alt="Timothy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlin56&theme=tokyonight" alt="Timothy's GitHub Streak" />
 </p>
 
 ---
@@ -94,8 +94,20 @@
 
 ---
 
-### [JHU Course Vote Social Media Platform]
-**A live rating/social platform for course discussions** to make course selection more transparent, foster meaningful peer interactions, and improve overall academic experiences.  
+### [AI Interview Platform with TTS]
+An **AI-driven interview and coaching platform** that uses **Text-to-Speech (TTS)** and **Speech Recognition** to simulate realistic interview scenarios. It helps users practice and improve their communication skills through:
+- **Natural Language Processing & AI**: Dynamically generated questions and context-based follow-up inquiries
+- **Text-to-Speech Support**: Converts AI-generated prompts into spoken questions for a true-to-life interview experience
+- **Speech Recognition & Feedback**: Analyzes user responses, offering real-time corrective feedback, filler word detection, and language enhancements
+- **Analytics & Reporting**: Detailed transcripts, performance scoring, and improvement tracking over time
+
+**Tech Stack Highlights:**
+- **React / Next.js** for the front-end interface
+- **Node.js / Express** for APIs and integration
+- **Cloud TTS APIs** (AWS Polly, Google Text-to-Speech, or Azure TTS)
+- **Speech-to-Text** engines for voice response analysis
+- **Docker / Kubernetes** for containerization and deployment
+
 - **Code:** [Link (Coming Soon)](#)  
 - **Demo:** [Link (Coming Soon)](#)  
 
