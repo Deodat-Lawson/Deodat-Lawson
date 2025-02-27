@@ -278,6 +278,3 @@ An **AI-driven interview and coaching platform** that uses **Text-to-Speech (TTS
   <img src="https://komarev.com/ghpvc/?username=tlin56&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-**Enjoy your new, prettier README!** Feel free to modify the icon sizes, reorder sections, or add more pizzazz as you like. Happy coding!
