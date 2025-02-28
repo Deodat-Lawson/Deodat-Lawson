@@ -35,11 +35,11 @@ Below is a categorized overview of the languages, frameworks, and tools I use.
   <!-- Next.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <!-- Vue -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <!-- Angular -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <!-- SolidJS -->
-  <img src="https://www.solidjs.com/assets/img/solid-logo.svg" alt="Solid JS" width="40" height="40"/>
+  <img src="https://www.solidjs.com/assets/img/solid-logo.svg" alt="SolidJS" width="40" height="40"/>
   <!-- TailwindCSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
   <!-- Vite -->
@@ -107,8 +107,8 @@ Below is a categorized overview of the languages, frameworks, and tools I use.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <!-- DynamoDB (AWS icon for representation) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="DynamoDB" width="40" height="40"/>
+  <!-- DynamoDB -->
+  <img src="https://raw.githubusercontent.com/jonico/awesome-aws-icons/master/res/dynamodb.svg" alt="DynamoDB" width="40" height="40"/>
   <!-- Cassandra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original.svg" alt="Cassandra" width="40" height="40"/>
   <!-- Firebase -->
@@ -153,14 +153,14 @@ Below is a categorized overview of the languages, frameworks, and tools I use.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <!-- AWS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <!-- AWS Lambda -->
+  <img src="https://raw.githubusercontent.com/jonico/awesome-aws-icons/master/res/lambda.svg" alt="AWS Lambda" width="40" height="40"/>
   <!-- Azure -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <!-- Google Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
   <!-- Cloudflare -->
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-  <!-- AWS Lambda (generic AWS icon again) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Lambda" width="40" height="40"/>
   <!-- Ubuntu -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <!-- Bash -->
@@ -187,7 +187,7 @@ Below is a categorized overview of the languages, frameworks, and tools I use.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <!-- Scikit-learn -->
+  <!-- Scikit-Learn -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
@@ -278,3 +278,6 @@ An **AI-driven interview and coaching platform** that uses **Text-to-Speech (TTS
   <img src="https://komarev.com/ghpvc/?username=tlin56&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
+**That’s it!** Now all the missing logos should load correctly. Happy coding!
