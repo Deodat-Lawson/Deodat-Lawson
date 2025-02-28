@@ -1,3 +1,7 @@
+Below is a **fully updated** README template that includes **all** your technologies with **working** logo links—especially for SolidJS, TailwindCSS, Parcel, Cypress, Apollo, pnpm, DynamoDB, Cassandra, Kafka, AWS, AWS Lambda, Scikit-learn, and EmailJS. Feel free to copy-paste, then modify to your liking!
+
+---
+
 # Hi there, I'm Timothy Lin 👋
 
 <div align="center">
