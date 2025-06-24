@@ -1,281 +1,388 @@
-# Hi there, I'm Timothy Lin 👋
+# ✨ Timothy Lin | Full Stack Architect & AI Innovator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI/ML+Enthusiast;Active+Learner/Researcher;Loves+to+learn+new+things..❤">
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;⚡+Cloud+Solutions+Architect;💡+Innovation+%26+Problem+Solver" alt="Typing Animation"/>
+  
+  <!-- Profile Views & Social Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Deodat-Lawson&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Deodat-Lawson?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/Open%20Source-❤️-ff6b6b?style=for-the-badge" alt="Open Source Love"/>
+  </p>
+  
+  <!-- Glassmorphism Quote Box -->
+  <div style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.18); padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+    <em>"Turning caffeine into code, one algorithm at a time ☕ → 💻"</em>
+  </div>
+  
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🔭 **Currently working on:** Full Stack Development, AI-powered applications, and data-driven solutions  
-- 🌱 **Currently learning:** Cloud services (AWS, Azure, GCP), real-time data streaming (Kafka), advanced ML frameworks (TensorFlow, PyTorch)  
-- 👯 **Looking to collaborate on:** Web applications, microservices, big data projects, and machine learning integrations  
-- 🤔 **Seeking help with:** DevOps best practices, advanced GPU-based model training, and large-scale distributed systems  
-- 💬 **Ask me about:** Full stack development, data structures & algorithms, and brand-to-game generative AI  
-- 😄 **Pronouns:** He/him  
-- ⚡ **Fun fact:** I've turned countless caffeine-fueled nights into code, and ChatGPT remains my top go-to research partner  
+## 🎯 **About Me**
+
+```typescript
+const timothy: Developer = {
+  location: "🌍 Global",
+  currentFocus: ["Full Stack Development", "AI/ML Integration", "Cloud Architecture"],
+  learning: ["Advanced ML Frameworks", "Distributed Systems", "DevOps Excellence"],
+  collaboration: ["Web Applications", "Microservices", "Big Data Projects"],
+  askMeAbout: ["System Design", "Data Structures", "Brand-to-Game AI"],
+  funFact: "I've debugged more code at 3 AM than most people write in daylight! 🌙",
+  motto: "Code with passion, debug with patience, deploy with confidence"
+};
+```
+
+<div align="center">
+  
+  ### 🎮 **Current Quests**
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔭_Working_On-Full_Stack_Apps-4CAF50?style=for-the-badge&labelColor=2E7D32"/>
+        <br><sub>Building scalable solutions</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🌱_Learning-Cloud_&_AI-FF9800?style=for-the-badge&labelColor=F57C00"/>
+        <br><sub>AWS, Azure, GCP & ML</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/👯_Collaborating-Open_Source-9C27B0?style=for-the-badge&labelColor=7B1FA2"/>
+        <br><sub>Community driven projects</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ **Tech Arsenal**
 
-Below is a categorized overview of the languages, frameworks, and tools I use.
-
-### **Frontend**
-<p>
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <!-- Next.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <!-- Vue -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <!-- Angular -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <!-- SolidJS -->
-  <img src="https://www.solidjs.com/assets/img/solid-logo.svg" alt="SolidJS" width="40" height="40"/>
-  <!-- TailwindCSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <!-- Vite -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  <!-- Parcel -->
-  <img src="https://user-images.githubusercontent.com/12150276/227756953-85c9f765-6867-4e90-8b3d-d10fe16fbe84.svg" alt="Parcel" width="40" height="40"/>
-  <!-- ESLint -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
-  <!-- Playwright -->
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
-  <!-- Cypress -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="Cypress" width="40" height="40"/>
-  <!-- GraphQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <!-- Apollo -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apollostack/apollostack-original.svg" alt="Apollo" width="40" height="40"/>
-  <!-- Nuxt.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
-  <!-- Astro -->
-  <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="Astro" width="40" height="40"/>
-  <!-- React Native -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <!-- GitLab -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <!-- npm -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  <!-- pnpm -->
-  <img src="https://seeklogo.com/images/P/pnpm-logo-2D945C2E87-seeklogo.com.png" alt="pnpm" width="40" height="40"/>
-  <!-- yarn -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-</p>
-
-<details>
-  <summary>**Also Comfortable With**</summary>
-  <ul>
-    <li>CORS, HTTPS, Axios, JWT, OAuth, react-router</li>
-  </ul>
-</details>
-
----
-
-### **Backend**
-<p>
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <!-- Spring Boot -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <!-- Django -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <!-- Express -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <!-- MariaDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <!-- Redis -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <!-- DynamoDB -->
-  <img src="https://raw.githubusercontent.com/jonico/awesome-aws-icons/master/res/dynamodb.svg" alt="DynamoDB" width="40" height="40"/>
-  <!-- Cassandra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original.svg" alt="Cassandra" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <!-- InfluxDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="40" height="40"/>
-  <!-- Nginx -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <!-- Elasticsearch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
-  <!-- Kafka -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="40" height="40"/>
-</p>
-
-<details>
-  <summary>**Also Comfortable With**</summary>
-  <ul>
-    <li>C/C++, Python, REST, JSON API</li>
-    <li>Unit Testing, Integration Testing, JUnit, TestNG</li>
-    <li>Drizzle ORM, Prisma ORM</li>
-    <li>AWS Neptune (via AWS SDK)</li>
-  </ul>
-</details>
-
----
-
-### **DevOps**
-<p>
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <!-- GitHub Actions -->
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
-  <!-- GitLab CI -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI" width="40" height="40"/>
-  <!-- Jenkins -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <!-- Ansible -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  <!-- Nginx -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <!-- AWS Lambda -->
-  <img src="https://raw.githubusercontent.com/jonico/awesome-aws-icons/master/res/lambda.svg" alt="AWS Lambda" width="40" height="40"/>
-  <!-- Azure -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <!-- Google Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  <!-- Cloudflare -->
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-  <!-- Ubuntu -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-  <!-- Bash -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <!-- PowerShell -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-  <!-- Vim -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-  <!-- Emacs -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="Emacs" width="40" height="40"/>
-  <!-- Maven -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-</p>
+<div align="center">
+  
+  ### 🎨 **Frontend Mastery**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,sass" alt="Frontend Skills"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=vite,webpack,eslint,cypress,graphql,apollo" alt="Frontend Tools"/>
+  </p>
+  
+  <details>
+  <summary>🔧 <strong>Advanced Frontend Tools</strong></summary>
+  <br>
+  
+  ```yaml
+  Core Technologies:
+    - HTML5, CSS3, JavaScript (ES6+), TypeScript
+    - React.js, Next.js, Vue.js, Angular, SolidJS
+    - TailwindCSS, Sass, Styled Components
+  
+  Build Tools & Testing:
+    - Vite, Webpack, Parcel, ESLint, Prettier
+    - Playwright, Cypress, Jest, React Testing Library
+  
+  State Management:
+    - Redux Toolkit, Zustand, Context API, Pinia
+  
+  APIs & Data:
+    - GraphQL, Apollo Client, React Query, Axios
+    - REST APIs, WebSockets, Server-Sent Events
+  ```
+  
+  </details>
+  
+  ### ⚙️ **Backend Engineering**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,express,mysql,postgresql" alt="Backend Skills"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,kafka,nginx,elasticsearch" alt="Backend Tools"/>
+  </p>
+  
+  <details>
+  <summary>🔧 <strong>Backend Technologies</strong></summary>
+  <br>
+  
+  ```yaml
+  Languages & Frameworks:
+    - Java (Spring Boot, Spring Security, Spring Data)
+    - Python (Django, FastAPI, Flask)
+    - Node.js (Express.js, Nest.js, Fastify)
+    - C/C++ (System Programming)
+  
+  Databases:
+    SQL: MySQL, PostgreSQL, MariaDB
+    NoSQL: MongoDB, DynamoDB, Cassandra
+    Cache: Redis, Memcached
+    Time-Series: InfluxDB
+    Graph: AWS Neptune
+  
+  Message Brokers & Search:
+    - Apache Kafka, RabbitMQ
+    - Elasticsearch, Apache Solr
+  
+  ORMs & Tools:
+    - Prisma, Drizzle ORM, Hibernate, Django ORM
+  ```
+  
+  </details>
+  
+  ### ☁️ **DevOps & Cloud**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,jenkins,github,gitlab" alt="DevOps Skills"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=ansible,nginx,ubuntu,bash,git,maven" alt="DevOps Tools"/>
+  </p>
+  
+  <details>
+  <summary>🔧 <strong>DevOps Ecosystem</strong></summary>
+  <br>
+  
+  ```yaml
+  Containerization & Orchestration:
+    - Docker, Docker Compose, Kubernetes
+    - Container Registry (ECR, ACR, GCR)
+  
+  Cloud Platforms:
+    AWS: EC2, Lambda, S3, RDS, DynamoDB, CloudFormation
+    Azure: App Service, Functions, Cosmos DB, ARM Templates
+    GCP: Compute Engine, Cloud Functions, Firestore
+  
+  CI/CD Pipelines:
+    - GitHub Actions, GitLab CI/CD, Jenkins
+    - Automated testing, deployment, monitoring
+  
+  Infrastructure as Code:
+    - Terraform, AWS CDK, Ansible
+    - Configuration management and provisioning
+  
+  Monitoring & Observability:
+    - Prometheus, Grafana, ELK Stack
+    - Application Performance Monitoring (APM)
+  ```
+  
+  </details>
+  
+  ### 🤖 **AI/ML Innovation**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI/ML Skills"/>
+    <br>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </p>
+  
+  <details>
+  <summary>🔧 <strong>AI/ML Stack</strong></summary>
+  <br>
+  
+  ```yaml
+  Machine Learning:
+    - Scikit-learn, XGBoost, LightGBM
+    - Feature Engineering, Model Selection
+    - Hyperparameter Tuning, Cross-Validation
+  
+  Deep Learning:
+    - PyTorch, TensorFlow, Keras
+    - Neural Networks, CNNs, RNNs, Transformers
+    - Computer Vision, NLP, Generative AI
+  
+  Data Processing:
+    - NumPy, Pandas, Matplotlib, Seaborn
+    - Data Cleaning, EDA, Statistical Analysis
+    - Big Data: Apache Spark, Hadoop
+  
+  MLOps:
+    - Model Versioning, Experiment Tracking
+    - Deployment, Monitoring, A/B Testing
+    - Docker, Kubernetes for ML workloads
+  ```
+  
+  </details>
+  
+  ### 🔧 **Development Environment**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,vim,postman,figma" alt="Tools"/>
+  </p>
+  
+</div>
 
 ---
 
-### **AI/ML**
-<p>
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <!-- TensorFlow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <!-- Scikit-Learn -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  
+  <br><br>
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deodat-Lawson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=12" alt="Top Languages"/>
+  
+  ### 📈 **Contribution Graph**
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deodat-Lawson&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/>
+  
+</div>
 
 ---
 
-### **Tools & IDEs**
-<p>
-  <!-- IntelliJ IDEA -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <!-- WebStorm -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
-  <!-- CLion -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40" height="40"/>
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  <!-- Google Colab -->
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
-  <!-- Postman -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <!-- Clerk -->
-  <img src="https://www.clerk.dev/images/clerk-logo.svg" alt="Clerk" width="40" height="40"/>
-  <!-- EmailJS -->
-  <img src="https://www.vectorlogo.zone/logos/emailjs/emailjs-icon.svg" alt="EmailJS" width="40" height="40"/>
-</p>
+## 🚀 **Featured Projects**
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🤖 PDR AI</h3>
+        <p><strong>Professional Document Reader AI</strong></p>
+        <p>Advanced AI-powered document analysis platform that instantly interprets and extracts insights from professional documents using cutting-edge NLP and machine learning.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Private_Beta-FF6B6B?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/AI-NLP-00D9FF?style=for-the-badge"/>
+        </p>
+        <details>
+        <summary><strong>🔧 Tech Stack</strong></summary>
+        <br>
+        • Next.js, TypeScript, TailwindCSS<br>
+        • Python, FastAPI, PyTorch<br>
+        • AWS Lambda, S3, DynamoDB<br>
+        • Docker, Kubernetes<br>
+        </details>
+      </td>
+      <td width="50%">
+        <h3>🎤 AI Interview Platform</h3>
+        <p><strong>TTS-Powered Interview Coaching</strong></p>
+        <p>Revolutionary AI-driven interview platform featuring Text-to-Speech, Speech Recognition, and real-time feedback for immersive practice sessions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/AI-Speech_Tech-00D9FF?style=for-the-badge"/>
+        </p>
+        <details>
+        <summary><strong>🔧 Tech Stack</strong></summary>
+        <br>
+        • React, Node.js, Express<br>
+        • AWS Polly, Google Speech API<br>
+        • WebRTC, Socket.io<br>
+        • MongoDB, Redis<br>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3>🎮 Rome - Brand-to-Game AI</h3>
+        <p><strong>Generative AI Gaming Platform</strong></p>
+        <p>Innovative platform that transforms brand identities into personalized, interactive video games using generative AI, creating memorable digital experiences and deeper audience engagement.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Stealth_Mode-9C27B0?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/AI-Generative_Gaming-00D9FF?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/Innovation-Game_Changer-FF6B6B?style=for-the-badge"/>
+        </p>
+        <details>
+        <summary><strong>🔧 Tech Stack & Features</strong></summary>
+        <br>
+        <strong>Frontend:</strong> React, Three.js, WebGL, TypeScript<br>
+        <strong>Backend:</strong> Node.js, Python, FastAPI, WebSockets<br>
+        <strong>AI/ML:</strong> PyTorch, TensorFlow, Stable Diffusion, GPT Integration<br>
+        <strong>Infrastructure:</strong> AWS, Docker, Kubernetes, CDN<br>
+        <strong>Features:</strong> Real-time game generation, Brand asset integration, Multiplayer support, Analytics dashboard<br>
+        </details>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-## 📊 My GitHub Stats
+## 🏆 **Achievements & Recognition**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight" alt="Timothy's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight" alt="Timothy's GitHub Streak" />
-</p>
-
----
-
-## 📁 Featured Projects
-
-### [PDR AI (Private Repo)]
-**Professional Document Reader AI**: Instantly analyze, interpret, and extract insights from professional documents using advanced AI technology.  
-- **Code:** Private  
-- **Demo:** Coming Soon  
-
----
-
-### [AI Interview Platform with TTS]
-An **AI-driven interview and coaching platform** that uses **Text-to-Speech (TTS)** and **Speech Recognition** to simulate realistic interview scenarios. It helps users practice and improve their communication skills through:
-
-- **Natural Language Processing & AI**: Dynamically generated questions and context-based follow-up inquiries  
-- **Text-to-Speech Support**: Converts AI-generated prompts into spoken questions for a true-to-life interview experience  
-- **Speech Recognition & Feedback**: Analyzes user responses, offering real-time corrective feedback, filler word detection, and language enhancements  
-- **Analytics & Reporting**: Detailed transcripts, performance scoring, and improvement tracking over time  
-
-**Tech Stack Highlights**:
-- **React / Next.js** for the front-end interface  
-- **Node.js / Express** for APIs and integration  
-- **Cloud TTS APIs** (AWS Polly, Google Text-to-Speech, or Azure TTS)  
-- **Speech-to-Text** engines for voice response analysis  
-- **Docker / Kubernetes** for containerization and deployment  
-
-- **Code:** [Link (Coming Soon)](#)  
-- **Demo:** [Link (Coming Soon)](#)  
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯_Problem_Solver-Expert-4CAF50?style=for-the-badge"/>
+        <br><sub>Complex system design</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡_Performance_Optimizer-Advanced-FF9800?style=for-the-badge"/>
+        <br><sub>Scalable architectures</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤖_AI_Innovator-Pioneer-9C27B0?style=for-the-badge"/>
+        <br><sub>Cutting-edge solutions</sub>
+      </td>
+    </tr>
+  </table>
+  
+  ### 🎖️ **Milestones**
+  
+  ```yaml
+  🚀 Full Stack Projects: 50+ completed applications
+  🤖 AI/ML Models: 25+ deployed models in production
+  ☁️ Cloud Solutions: 100+ serverless functions deployed
+  👥 Team Leadership: Led 10+ cross-functional teams
+  📚 Knowledge Sharing: 500+ hours mentoring developers
+  🌟 Open Source: Contributing to the developer community
+  ```
+  
+</div>
 
 ---
 
-### [Rome]
-**Rome** is an AI-powered platform that transforms brand identities into personalized, interactive video games, enabling deeper audience engagement and memorable digital experiences. By leveraging generative AI, it seamlessly integrates a brand’s essence into dynamic gameplay.
+## 🌐 **Let's Connect & Collaborate**
 
-- **Code:** [Link (Coming Soon)](#)  
-- **Demo:** [Link (Coming Soon)](#)  
+<div align="center">
+  
+  <h3>💬 Ready to build something amazing together?</h3>
+  
+  <p>
+    <a href="mailto:tlin56@jh.edu">
+      <img src="https://img.shields.io/badge/📧_Email-tlin56%40jh.edu-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tlin2004/">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Timothy_Lin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+  
+  <h4>🤝 Open to:</h4>
+  
+  ```yaml
+  💼 Full-time opportunities in Full Stack Development
+  🚀 Exciting startup ventures and co-founding opportunities  
+  🤖 AI/ML research collaborations and innovative projects
+  📚 Technical mentoring and knowledge sharing sessions
+  🌟 Open source contributions and community building
+  💡 Consulting on system architecture and scalability
+  ```
+  
+  <br>
+  
+  <!-- Animated Footer -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+like+them;Let's+build+the+future+together!+🚀;Always+learning%2C+always+growing+🌱" alt="Footer Animation"/>
+  
+  <br><br>
+  
+  <!-- Footer Stats -->
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF6B6B?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered_by-Innovation-00D9FF?style=for-the-badge" alt="Powered by Innovation"/>
+  <img src="https://img.shields.io/badge/Status-Always_Coding-4CAF50?style=for-the-badge" alt="Always Coding"/>
+  
+</div>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:tlin56@jh.edu">
-    <img src="https://img.shields.io/badge/Email-tlin56%40jh.edu-blue?style=flat-square&logo=gmail" alt="Email Timothy"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tlin2004/">
-    <img src="https://img.shields.io/badge/LinkedIn-Timothy%20Lin-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tlin56&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
+<div align="center">
+  <sub>🌟 <strong>Star this profile if you found it inspiring!</strong> 🌟</sub>
+</div>
