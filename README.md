@@ -26,12 +26,11 @@
 ```typescript
 const timothy: Developer = {
   location: "🌍 Global",
-  currentFocus: ["Full Stack Development", "AI/ML Integration", "Cloud Architecture"],
-  learning: ["Advanced ML Frameworks", "Distributed Systems", "DevOps Excellence"],
-  collaboration: ["Web Applications", "Microservices", "Big Data Projects"],
-  askMeAbout: ["System Design", "Data Structures", "Brand-to-Game AI"],
-  funFact: "I've debugged more code at 3 AM than most people write in daylight! 🌙",
-  motto: "Code with passion, debug with patience, deploy with confidence"
+  currentFocus: ["Full Stack Development", "AI Agents, MCP", "Cloud Architecture"],
+  learning: ["System Design & Optimization", "Advanced ML Frameworks", "Distributed Systems", "DevOps Excellence"],
+  collaboration: ["Microservices", "Big Data Projects"],
+  askMeAbout: ["Tech Stacks", "Data Structures", "Brand-to-Game AI"],
+  funFact: "I become 300% more productive coding after midnight🌙",
 };
 ```
 
