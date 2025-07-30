@@ -5,13 +5,6 @@
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;⚡+Cloud+Solutions+Architect;💡+Innovation+%26+Problem+Solver" alt="Typing Animation"/>
   
-  <!-- Profile Views & Social Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Deodat-Lawson&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Deodat-Lawson?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/badge/Open%20Source-❤️-ff6b6b?style=for-the-badge" alt="Open Source Love"/>
-  </p>
-  
   <!-- Glassmorphism Quote Box -->
   <div style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.18); padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
     <em>"Turning caffeine into code, one algorithm at a time ☕ → 💻"</em>
