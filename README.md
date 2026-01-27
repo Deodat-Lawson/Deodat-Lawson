@@ -1,3 +1,4 @@
+improve github readme, but only keep pdr ai (https://github.com/Deodat-Lawson/PDR_AI_v2)
 # ✨ Timothy Lin | Full Stack Architect & AI Innovator
 
 <div align="center">
