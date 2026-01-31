@@ -131,16 +131,7 @@ Stack:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deodat-Lawson&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/> <br><br> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deodat-Lawson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=12" alt="Top Languages"/> ### 📈 **Contribution Graph** <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deodat-Lawson&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/> </div>
 
 ---
 
