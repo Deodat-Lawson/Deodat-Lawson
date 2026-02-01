@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;⚡+Cloud+Solutions+Architect;💡+Innovation+%26+Problem+Solver" alt="Typing Animation"/>
   
   <div style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255,255,255,0.18); padding: 20px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-    <em>"Turning caffeine into code, one algorithm at a time ☕ → 💻"</em>
+    <em>"Turning code into success, one pinch at a time"</em>
   </div>
   
 </div>
@@ -254,14 +254,16 @@ MLOps:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/?user=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api?user<div align="center">
 
+  <img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
 
+  <img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api?username=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
+  <img width="60%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api/top-langs?username=Deodat-Lawson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=12" />
 
+</div>
 
-<img width="60%" src="github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api/top-langs/%3Fusername%3DDeodat-Lawson%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26text_color%3DFFFFFF%26langs_count%3D12" alt="Top Languages"/>
 
 ### 📈 **Contribution Graph**
 
