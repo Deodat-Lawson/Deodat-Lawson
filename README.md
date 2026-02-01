@@ -1,4 +1,4 @@
-```markdown
+
 # ✨ Timothy Lin | Full Stack Architect & AI Innovator
 
 <div align="center">
@@ -254,14 +254,14 @@ MLOps:
 
 <div align="center">
 
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api%3Fusername%3DDeodat-Lawson%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26icon_color%3D00D9FF%26text_color%3DFFFFFF%26count_private%3Dtrue" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api?username=Deodat-Lawson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/?user=Deodat-Lawson&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
 
 
 
 
-<img width="60%" src="https://www.google.com/search?q=https://github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api/top-langs/%3Fusername%3DDeodat-Lawson%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26text_color%3DFFFFFF%26langs_count%3D12" alt="Top Languages"/>
+<img width="60%" src="github-readme-stats-fd054w9wr-timothy-lins-projects-92e35308.vercel.app/api/top-langs/%3Fusername%3DDeodat-Lawson%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26text_color%3DFFFFFF%26langs_count%3D12" alt="Top Languages"/>
 
 ### 📈 **Contribution Graph**
 
