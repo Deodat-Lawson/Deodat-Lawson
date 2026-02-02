@@ -287,7 +287,7 @@ Advanced AI-powered document analysis platform that instantly interprets and ext
 
 
 <p>
-<img src="https://img.shields.io/badge/Status-Private_Beta-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Deodat-Lawson/PDR_AI_v2?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/AI-NLP-00D9FF?style=for-the-badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Stars-600%2B-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack"/>
 </p>
