@@ -278,7 +278,6 @@ MLOps:
 
 
 
-
 <p style="font-size: 1.1em; max-width: 800px; margin: auto;">
 Advanced AI-powered document analysis platform that instantly interprets and extracts insights from professional documents using cutting-edge NLP and machine learning.
 </p>
