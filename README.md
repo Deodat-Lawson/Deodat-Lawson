@@ -269,7 +269,7 @@ MLOps:
 
 ## 🚀 **Featured Projects**
 
-<<br/>
+<br/>
 
 <table>
 <tr>
