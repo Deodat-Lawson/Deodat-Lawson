@@ -269,56 +269,53 @@ MLOps:
 
 ## 🚀 **Featured Projects**
 
+<<br/>
+
+<table>
+<tr>
+<td width="75%">
+
+### 🤖 <a href="https://github.com/Deodat-Lawson/PDR_AI_v2">PDR AI (Professional Document Reader)</a>
+
+> **Multi-Agent RAG Platform:** Instantly extracts insights from documents using a swarm of AI agents. Built with the **T3 Stack** and advanced LLM orchestration.
+
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js_14-black?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/T3_Stack-blue?style=flat&logo=t3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_CrewAI-FF4F00?style=flat" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-00D9FF?style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
+</div>
+
+</td>
+<td width="25%" align="center">
+
+<br/>
 <div align="center">
+  <a href="https://github.com/Deodat-Lawson/PDR_AI_v2">
+    <img src="https://img.shields.io/github/stars/Deodat-Lawson/PDR_AI_v2?style=for-the-badge&logo=github&color=gold" alt="Stars"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Deodat-Lawson/PDR_AI_v2">
+    <img src="https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
-<div style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); border-radius: 20px; border: 1px solid rgba(0, 217, 255, 0.2); padding: 30px; margin: 20px 0;">
-<h2>🤖 PDR AI</h2>
-<h3><strong>Professional Document Reader AI</strong></h3>
+</td>
+</tr>
+</table>
 
-
-
-
-<p style="font-size: 1.1em; max-width: 800px; margin: auto;">
-Advanced AI-powered document analysis platform that instantly interprets and extracts insights from professional documents using cutting-edge NLP and machine learning.
-</p>
-
-
-
-
-
-<p>
-<img src="https://img.shields.io/github/stars/Deodat-Lawson/PDR_AI_v2?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI-NLP-00D9FF?style=for-the-badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stars-600%2B-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack"/>
-</p>
-
-
-
-
-
-<div align="left" style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; display: inline-block;">
-<summary style="font-size: 1.1em; margin-bottom: 10px; color: #00D9FF;"><strong>🔧 Tech Stack Architecture</strong></summary>
-
-
-
-
-
-• <strong>Frontend:</strong> Next.js, TypeScript, TailwindCSS
-
-
-
-
-• <strong>Backend:</strong> Python, FastAPI, PyTorch
-
-
-
-
-• <strong>Cloud & Infra:</strong> AWS Lambda, S3, DynamoDB
-
-
-
-
-• <strong>DevOps:</strong> Docker, Kubernetes
+<br/>
 </div>
 </div>
 
